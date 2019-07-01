@@ -1,0 +1,3 @@
+gethworkdir/*
+privnet/geth/*
+privnet/keystore/*
